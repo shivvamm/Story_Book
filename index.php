@@ -52,7 +52,7 @@
 		<div class="posts">
 			<?php
 			// Connect to the database
-			$db = new PDO("mysql:host=sql103.epizy.com;dbname=epiz_27549001_mydb", "epiz_27549001", "q6gkdpihol");
+			$db = new PDO("mysql:host=host;dbname=DB", "username", "password");
             if (!$db) {
     die('Database connection failed: ' . $db->errorInfo()[2]);
 }
