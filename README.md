@@ -1,4 +1,38 @@
 
+# StoryBook
+StoryBook is a open website for everyone to share their stories if you have something intresting you can share over here 
+
+
+
+
+
+
+## 🔗 Links
+(http://one4all.great-site.net/)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Features
+
+- Create Posts
+- View Posts
+
+
+## Tech Stack
+
+**Client:** HTML, CSS, TailwindCSS , Angular ,Bootstrap
+
+**Server:** PHP
+
+
 ## Run Locally
 
 Clone the project
